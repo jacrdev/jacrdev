@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jacrdev
 - 👀 I’m interested in Music (Electronic/Dance), Soccer
-- 🌱 I’m currently learning Flutter
+-  I’m a Node developer
+- 
 
 <!---
 jacrdev/jacrdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
