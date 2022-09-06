@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @jacrdev
-- 👀 I’m interested in Music (Electronic/Dance), Soccer
+- 👋 Hi, I’m @jacrdev 
 -  I’m a Node developer
+- I'm currently learning React
+- 👀 I’m interested in Music (Electronic/Dance), Soccer
 - 
 
 <!---
